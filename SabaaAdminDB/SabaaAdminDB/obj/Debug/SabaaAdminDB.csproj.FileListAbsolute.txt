@@ -1,0 +1,9 @@
+C:\Users\ADMINTECH\source\repos\SabaaAdminDB\SabaaAdminDB\obj\Debug\SabaaAdminDB.csproj.AssemblyReference.cache
+C:\Users\ADMINTECH\source\repos\SabaaAdminDB\SabaaAdminDB\obj\Debug\SabaaAdminDB.Properties.Resources.resources
+C:\Users\ADMINTECH\source\repos\SabaaAdminDB\SabaaAdminDB\obj\Debug\SabaaAdminDB.csproj.GenerateResource.cache
+C:\Users\ADMINTECH\source\repos\SabaaAdminDB\SabaaAdminDB\obj\Debug\SabaaAdminDB.csproj.CoreCompileInputs.cache
+C:\Users\ADMINTECH\source\repos\SabaaAdminDB\SabaaAdminDB\bin\Debug\SabaaAdminDB.exe.config
+C:\Users\ADMINTECH\source\repos\SabaaAdminDB\SabaaAdminDB\bin\Debug\SabaaAdminDB.exe
+C:\Users\ADMINTECH\source\repos\SabaaAdminDB\SabaaAdminDB\bin\Debug\SabaaAdminDB.pdb
+C:\Users\ADMINTECH\source\repos\SabaaAdminDB\SabaaAdminDB\obj\Debug\SabaaAdminDB.exe
+C:\Users\ADMINTECH\source\repos\SabaaAdminDB\SabaaAdminDB\obj\Debug\SabaaAdminDB.pdb
